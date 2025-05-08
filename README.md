@@ -77,5 +77,5 @@ A análise permite identificar padrões relevantes que contribuem para a evasão
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 **Milena Vasconcelos Ribeiro**  
-[LinkedIn](https://www.linkedin.com/in/seu-link-aqui) | [Email](mailto:seuemail@dominio.com)
+[LinkedIn](https://www.linkedin.com/in/engmilenaribeiro/) | [Email](mailto:eng.milenaribeiro@gmail.com)
 
